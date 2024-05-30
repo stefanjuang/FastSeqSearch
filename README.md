@@ -1,8 +1,5 @@
 # FastSeqSearch
-
-## Hook and Introduction
-
-**Hook**: "Imagine sifting through millions of genomic sequences or hours of video to find the closest match in just seconds—this groundbreaking capability is now achievable with FastSeqSearch."
+Imagine sifting through millions of genomic sequences or hours of video to find the closest match in just seconds—this groundbreaking capability is now achievable with FastSeqSearch.
 
 **Introduction**: Traditional methods for comparing sequences often struggle with speed and efficiency, especially when dealing with large datasets like genomic sequences, financial transactions, or multimedia content. These conventional approaches can be slow and computationally expensive, making real-time analysis nearly impossible.
 
@@ -76,11 +73,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributing
 
-Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
+Contributions are welcome!
 
 ## Acknowledgments
 
 - Thanks to the developers of FAISS and fastdtw for their foundational tools.
-- Special thanks to all contributors and collaborators.
 
 Give a ⭐️ if you like this project!

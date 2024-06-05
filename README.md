@@ -4,6 +4,7 @@ Imagine sifting through millions of genomic sequences or hours of video to find 
 **Introduction**: Traditional methods for comparing sequences often struggle with speed and efficiency, especially when dealing with large datasets like genomic sequences, financial transactions, or multimedia content. These conventional approaches can be slow and computationally expensive, making real-time analysis nearly impossible.
 
 FastSeqSearch tackles this problem head-on. By combining FAISS (Facebook AI Similarity Search) for rapid candidate retrieval and fastdtw (Fast Dynamic Time Warping) for detailed refinement, we’ve created a solution that significantly accelerates the search process while maintaining high accuracy. This hybrid approach transforms a time-consuming task into a streamlined process that’s both fast and reliable.
+<img src="./benchmark.png" alt="benchmark" width="800" height="480">
 
 ## Table of Contents
 

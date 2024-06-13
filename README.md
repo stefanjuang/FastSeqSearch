@@ -84,7 +84,9 @@ Contributions are welcome!
 Give a ⭐️ if you like this project!
 
 ## Citation
-'''
+If you use the FastReverseBellman Algorithm in your research or project, please cite this repository as follows:
+
+```
 @misc{FastSeqSearch2024,
   author = {Stefan Juang},
   title = {FastSeqSearch: Fast and Efficient Sequence Search On Millions of Sequences},

@@ -83,6 +83,8 @@ Contributions are welcome!
 
 Give a ⭐️ if you like this project!
 
+## Citation
+'''
 @misc{FastSeqSearch2024,
   author = {Stefan Juang},
   title = {FastSeqSearch: Fast and Efficient Sequence Search On Millions of Sequences},

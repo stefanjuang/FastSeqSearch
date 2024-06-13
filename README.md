@@ -15,6 +15,7 @@ FastSeqSearch tackles this problem head-on. By combining FAISS (Facebook AI Simi
 - [License](#license)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
+- [Citation](#citation)
 
 ## Practical Applications and Performance Benefits
 
@@ -81,3 +82,13 @@ Contributions are welcome!
 - Thanks to the developers of FAISS and fastdtw for their foundational tools.
 
 Give a ⭐️ if you like this project!
+
+@misc{FastSeqSearch2024,
+  author = {Stefan Juang},
+  title = {FastSeqSearch: Fast and Efficient Sequence Search On Millions of Sequences},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{https://github.com/stefanjuang/FastSeqSearch}},
+}
+
